@@ -9,10 +9,7 @@ function romanNumerals(number) {
     while (number) {
         ans = dig[k][number % 10] + ans
         ++k
-        number = Math.floor(number / 10)
-
     }
     return ans
 }
-
 console.log(romanNumerals(3888))
