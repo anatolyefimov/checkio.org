@@ -1,0 +1,22 @@
+{
+  "name": "checkio.org",
+  "version": "1.0.0",
+  "description": "Реализации задач на  js с сайта [checkio](https://checkio.org/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anatolyefimov/checkio.org.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anatolyefimov/checkio.org/issues"
+  },
+  "homepage": "https://github.com/anatolyefimov/checkio.org#readme",
+  "dependencies": {
+    "mocha": "^5.1.1"
+  }
+}
